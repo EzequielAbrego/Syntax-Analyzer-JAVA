@@ -1,0 +1,15 @@
+rojo
+azul
+amarillo
+blanco
+negro
+verde
+celeste
+rosado
+naranja
+plateado
+dorado
+BOOLEAN
+FLOAT
+STRING
+INT
